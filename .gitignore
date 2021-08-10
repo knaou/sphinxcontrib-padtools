@@ -1,0 +1,5 @@
+/.code
+*.egg-info
+*.pyc
+*.swp
+.python-version
